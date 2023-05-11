@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9381367900",
+    "project_id": "camproject-2cd34",
+    "storage_bucket": "camproject-2cd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9381367900:android:b0ee0217791c0f76cbd699",
+        "android_client_info": {
+          "package_name": "com.example.medproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9381367900-hs1ippmin3c8gv5flamj077s2ce6v1es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6TD1ArqyQ3_u9fRltwsMgi1Sm-_8d5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9381367900-hs1ippmin3c8gv5flamj077s2ce6v1es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
